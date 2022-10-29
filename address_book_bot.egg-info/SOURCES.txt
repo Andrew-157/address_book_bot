@@ -1,0 +1,13 @@
+setup.py
+address_book_bot/__init__.py
+address_book_bot/classes.py
+address_book_bot/client_code.py
+address_book_bot/commands.py
+address_book_bot/inp_err_dec.py
+address_book_bot/interface.py
+address_book_bot/receiver.py
+address_book_bot/run.py
+address_book_bot.egg-info/PKG-INFO
+address_book_bot.egg-info/SOURCES.txt
+address_book_bot.egg-info/dependency_links.txt
+address_book_bot.egg-info/top_level.txt
