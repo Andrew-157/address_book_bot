@@ -50,3 +50,7 @@ def client_code():
         else:
             print("No such a command")
             print("Use 'commands' command to see all the commands.")
+
+
+if __name__ == "__main__":
+    client_code()
