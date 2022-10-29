@@ -1,6 +1,6 @@
-from interface import ICommand
-from receiver import Receiver
-from classes import *
+from address_book_bot.interface import ICommand
+from address_book_bot.receiver import Receiver
+from address_book_bot.classes import *
 
 
 class SayHelloCommand(ICommand):

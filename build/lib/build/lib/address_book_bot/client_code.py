@@ -1,5 +1,5 @@
-from classes import *
-from commands import *
+from address_book_bot.classes import *
+from address_book_bot.commands import *
 
 
 class Invoker:
