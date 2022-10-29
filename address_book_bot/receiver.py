@@ -1,5 +1,5 @@
-from classes import *
-from inp_err_dec import input_error
+from address_book_bot.classes import *
+from address_book_bot.inp_err_dec import input_error
 from datetime import datetime
 
 
