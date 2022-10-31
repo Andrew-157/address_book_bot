@@ -4,6 +4,7 @@ address_book_bot/client_code.py
 address_book_bot.egg-info/PKG-INFO
 address_book_bot.egg-info/SOURCES.txt
 address_book_bot.egg-info/dependency_links.txt
+address_book_bot.egg-info/entry_points.txt
 address_book_bot.egg-info/top_level.txt
 address_book_bot/classes/__init__.py
 address_book_bot/classes/classes.py
