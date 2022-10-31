@@ -6,7 +6,7 @@ setup(
     description='Bot for saving contacts in the Address Book.',
     url='https://github.com/Andrew-157/address_book_bot',
     author='Andrew-157',
-    author_email='subotinandrey5@g,ail.com',
+    author_email='subotinandrey5@gmail.com',
     license='MIT',
     packages=find_namespace_packages()
 )

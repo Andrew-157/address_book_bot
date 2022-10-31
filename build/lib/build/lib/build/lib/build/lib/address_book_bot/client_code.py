@@ -54,3 +54,5 @@ def client_code():
 
 if __name__ == "__main__":
     client_code()
+
+client_code()
